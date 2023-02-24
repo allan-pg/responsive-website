@@ -1,5 +1,5 @@
 # responsive-website
-his repository contains a simple RWD in one page. I just used HTML, CSS  to write the code.
+This repository contains a simple RWD in one page. I just used HTML, CSS  to write the code.
 
 No bootstrap nor other frameworks.
 
